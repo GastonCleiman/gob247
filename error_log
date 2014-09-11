@@ -1,0 +1,6 @@
+[14-Aug-2014 17:22:35 UTC] PHP Fatal error:  Cannot redeclare rrss_init() (previously declared in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php:320) in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 486
+[14-Aug-2014 14:24:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_filter() in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 6
+[14-Aug-2014 14:24:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_filter() in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 6
+[14-Aug-2014 14:24:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_filter() in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 6
+[14-Aug-2014 14:25:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_filter() in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 6
+[14-Aug-2014 14:59:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_filter() in /home/gob247/public_html/dev/wp-content/themes/gob247/functions.php on line 6
